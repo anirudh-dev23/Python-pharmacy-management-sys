@@ -1,0 +1,10 @@
+How to Run it:
+1. Clone the repository
+```bash
+git clone https://github.com/anirudh-dev23/Python-pharmacy-management-sys.git
+
+2.Install dependencies:  pip install mysql-connector-python pandas matplotlib
+
+3.Create MySQL tables from README
+
+4.Run the app:  python MainPharma.py
