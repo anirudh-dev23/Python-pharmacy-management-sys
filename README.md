@@ -44,6 +44,7 @@ Tech Stack
 - **Data Analysis:** Pandas  
 - **Visualization:** Matplotlib  
 
+![Suppliers list](https://github.com/user-attachments/assets/861a5775-155f-44b5-a6d1-0ea1c16e8fda)
 
 DATABASE SETUP:
 
