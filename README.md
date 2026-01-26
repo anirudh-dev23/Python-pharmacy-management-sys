@@ -19,7 +19,7 @@ Billing System
 - Automatic stock deduction
 - Bill generation
 - Multiple items per bill
-  ![Billing]https://github.com/anirudh-dev23/Python-pharmacy-management-sys/blob/main/Billing%20.jpg)
+  ![Billing](https://github.com/anirudh-dev23/Python-pharmacy-management-sys/blob/main/Billing%20.jpg)
 
 Transaction Log (Sales History)
 - Records every sale
@@ -29,7 +29,7 @@ Transaction Log (Sales History)
   - Amount
   - Date & time
 - Viewable inside the application
-  ![Suppliers list](
+  ![Transaction log](https://github.com/anirudh-dev23/Python-pharmacy-management-sys/blob/main/Transaction%20log.jpg)
 
 Supplier Management
 - Add suppliers
