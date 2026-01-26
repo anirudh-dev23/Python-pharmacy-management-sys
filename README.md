@@ -12,13 +12,14 @@ Medicine Management
 - Update quantities
 - View all medicines
 - Low stock alerts
+ ![Main Page](https://github.com/anirudh-dev23/Python-pharmacy-management-sys/blob/main/Main%20.jpg)
 
 Billing System
 - Purchase medicines
 - Automatic stock deduction
 - Bill generation
 - Multiple items per bill
- ![Billing](https://github.com/anirudh-dev23/Python-pharmacy-management-sys/blob/main/Billing%20.jpg)
+  ![Billing]https://github.com/anirudh-dev23/Python-pharmacy-management-sys/blob/main/Billing%20.jpg)
 
 Transaction Log (Sales History)
 - Records every sale
