@@ -37,7 +37,7 @@ Supplier Management
 
 Analytics
 - Sales trend graph using Pandas & Matplotlib
- 
+ ![Sales Report](https://github.com/anirudh-dev23/Python-pharmacy-management-sys/blob/main/Sales%20Report.jpg)
 Tech Stack
 
 - **Language:** Python  
