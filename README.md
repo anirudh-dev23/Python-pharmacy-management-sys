@@ -18,6 +18,7 @@ Billing System
 - Automatic stock deduction
 - Bill generation
 - Multiple items per bill
+ ![Billing](https://github.com/anirudh-dev23/Python-pharmacy-management-sys/blob/main/Billing%20.jpg)
 
 Transaction Log (Sales History)
 - Records every sale
@@ -32,6 +33,7 @@ Supplier Management
 - Add suppliers
 - View supplier list
 - Stores contact details and company info
+![Suppliers list](https://github.com/user-attachments/assets/861a5775-155f-44b5-a6d1-0ea1c16e8fda)
 
 Analytics
 - Sales trend graph using Pandas & Matplotlib
@@ -43,8 +45,6 @@ Tech Stack
 - **Database:** MySQL  
 - **Data Analysis:** Pandas  
 - **Visualization:** Matplotlib  
-
-![Suppliers list](https://github.com/user-attachments/assets/861a5775-155f-44b5-a6d1-0ea1c16e8fda)
 
 DATABASE SETUP:
 
